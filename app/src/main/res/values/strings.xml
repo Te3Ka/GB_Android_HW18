@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework18</string>
+    <string name="add_attraction">new description</string>
+    <string name="text_hint_name">Название</string>
+    <string name="text_hint_description">Описание</string>
+    <string name="button_save">Сохранить</string>
+    <string name="button_take_photo">Сделать фото</string>
+    <string name="hint_date_photo">дата создания фото</string>
+</resources>
